@@ -42,7 +42,11 @@ public class VerbosityCalculator {
                 //System.out.println(sc.next());
                 if (words.contains(".") || words.contains("!") || words.contains("?"))
                     sentences=sentences+1;
+<<<<<<< HEAD
 
+=======
+                
+>>>>>>> 6d618da331ac011388fba7804d172b52f6c309f4
                 if (words.equalsIgnoreCase("mr.") || words.equalsIgnoreCase("mrs.") || words.equalsIgnoreCase("ms."))
                     sentences=sentences-1;
 
@@ -52,7 +56,10 @@ public class VerbosityCalculator {
             //System.out.println(sentences);
             DecimalFormat df = new DecimalFormat("###,##0.00");
             System.out.println(df.format(verbosity));
+<<<<<<< HEAD
             
+=======
+>>>>>>> 6d618da331ac011388fba7804d172b52f6c309f4
 
         }
 
