@@ -42,7 +42,7 @@ public class VerbosityCalculator {
                 //System.out.println(sc.next());
                 if (words.contains(".") || words.contains("!") || words.contains("?"))
                     sentences=sentences+1;
-                // don't count periods with Mr. and Mrs.
+                
                 if (words.equalsIgnoreCase("mr.") || words.equalsIgnoreCase("mrs.") || words.equalsIgnoreCase("ms."))
                     sentences=sentences-1;
 
