@@ -28,8 +28,8 @@
       <file leaf-file-name="VerbosityCalculator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/nyc/c4q/hoshikoo/VerbosityCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47619048" vertical-offset="160" max-vertical-offset="1035">
-              <caret line="24" column="73" selection-start-line="24" selection-start-column="73" selection-end-line="24" selection-end-column="73" />
+            <state vertical-scroll-proportion="1.5357143" vertical-offset="165" max-vertical-offset="1050">
+              <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,8 +57,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="38" />
-    <option name="y" value="336" />
+    <option name="x" value="58" />
+    <option name="y" value="68" />
     <option name="width" value="1344" />
     <option name="height" value="870" />
   </component>
@@ -343,7 +343,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="38" y="336" width="1344" height="870" extended-state="0" />
+    <frame x="58" y="68" width="1344" height="870" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -477,8 +477,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/nyc/c4q/hoshikoo/VerbosityCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47619048" vertical-offset="160" max-vertical-offset="1035">
-          <caret line="24" column="73" selection-start-line="24" selection-start-column="73" selection-end-line="24" selection-end-column="73" />
+        <state vertical-scroll-proportion="1.5357143" vertical-offset="165" max-vertical-offset="1050">
+          <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
